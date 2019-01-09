@@ -1,2 +1,3 @@
 # Rules
-Rules / 规则：Surge / Shadowrocket / Quantumult  https://prcloud.xyz
+本规则原始Fork lhie1/Rules
+
